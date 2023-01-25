@@ -1,5 +1,5 @@
-# Resat Ugur Ulu | Metavest App
-### thoughtful decisions = meaningful product
+# Resat Ugur Ulu | VP, Product at Metavest App
+### thoughtful decisions 🤝 meaningful product
 
 ⤷ Executor among many hats. Designing, developing, and running a variety of startup workflows while seeking for the Product-Market Fit
 
