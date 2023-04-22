@@ -1,5 +1,4 @@
-# Resat Ugur Ulu 
-### thoughtful decisions 🤝 meaningful products
+# thoughtful decisions 🤝 meaningful products
 
 ⤷ Hey there. I am working as VP of Product at Metavest Limited.
 
