@@ -1,6 +1,6 @@
 # thoughtful decisions 🤝 meaningful products
 
-⤷ Hey there. I am working at TOGG
+⤷ Hey there. I am working at TOGG, Trumore Blockchain Division 
 
 Currently responsible on executing several workflows under Blockchain domain involving Product Strategy & Delivery
 
