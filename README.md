@@ -20,8 +20,14 @@ AI conversations into durable agents, project memory, and workflows you own.
 
 ## Public GitHub
 
-This profile is a partial surface. Some repos are experiments, forks, small
-commits, or older learning projects. The current source of truth is Graphyn.
+This profile is a partial surface. A few public repos closest to the current
+work:
+
+| Repo | Notes |
+| --- | --- |
+| [gpui-mono](https://github.com/resatu/gpui-mono) | Design-system experiments around GPUI/Rust UI surfaces. |
+| [chunkbench](https://github.com/resatu/chunkbench) | Benchmarking notes for codebase chunking strategies. |
+| [kv-storage](https://github.com/resatu/kv-storage) | TypeScript key-value storage experiment with LSM-tree visualization. |
 
 ## How I Work
 
