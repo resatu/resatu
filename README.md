@@ -18,15 +18,10 @@ AI conversations into durable agents, project memory, and workflows you own.
 - Operator workflows: planning, research, review, deployment, docs, and support.
 - Product surfaces that make AI work inspectable instead of disposable.
 
-## Public Work
+## Public GitHub
 
-| Repo | What it is |
-| --- | --- |
-| [letta-code](https://github.com/resatu/letta-code) | Memory-first coding agent experiments. |
-| [gpui-mono](https://github.com/resatu/gpui-mono) | Graphyn design-system work for GPUI/Rust UI surfaces. |
-| [chunkbench](https://github.com/resatu/chunkbench) | Benchmarks for finding the right chunking strategy for a codebase. |
-| [kv-storage](https://github.com/resatu/kv-storage) | TypeScript LSM-tree key-value store with realtime visualization. |
-| [awesome-cursor-prompts](https://github.com/resatu/awesome-cursor-prompts) | Prompt and workflow collection for AI-assisted development. |
+This profile is a partial surface. Some repos are experiments, forks, small
+commits, or older learning projects. The current source of truth is Graphyn.
 
 ## How I Work
 
