@@ -26,7 +26,7 @@ work:
 | Repo | Notes |
 | --- | --- |
 | [gpui-mono](https://github.com/resatu/gpui-mono) | Design-system experiments around GPUI/Rust UI surfaces. |
-| [chunkbench](https://github.com/resatu/chunkbench) | Codebase chunking benchmark from a [Qdrant-track-winning hackathon project](https://luma.com/yqg1y4d6). |
+| [chunkbench](https://github.com/resatu/chunkbench) | Codebase chunking benchmark from a Qdrant-track-winning hackathon project. |
 | [kv-storage](https://github.com/resatu/kv-storage) | TypeScript key-value storage experiment with LSM-tree visualization. |
 
 ## How I Work
