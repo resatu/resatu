@@ -1,34 +1,47 @@
-# salty dev skills 🤝 hacky designs
+# Resat Ugur Ulu
 
-Building Graphyn — because "regenerate response" is not a development strategy. 🏴‍☠️
+I build local-first AI software: desktop runtimes, agent memory, reusable skills,
+and workflows that leave receipts a human can audit.
 
-<a align="left" href="https://graphyn.xyz" target="_blank" rel="noreferrer noopener"><img 
-src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a>
-<a align="left" href="mailto:richard@graphyn.xyz" target="_blank" rel="noreferrer noopener"><img 
-src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a>
-<a align="left" href="https://twitter.com/graphyn_" target="_blank" rel="noreferrer noopener"><img 
-src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a>
-<a align="left" href="https://www.linkedin.com/in/resatugurulu" target="_blank" rel="noreferrer noopener"><img 
-src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>
+Right now I am building [Graphyn](https://graphyn.xyz), a desktop app for turning
+AI conversations into durable agents, project memory, and workflows you own.
 
-## What I'm Building
+[Website](https://graphyn.xyz) | [X](https://twitter.com/graphyn_) |
+[LinkedIn](https://www.linkedin.com/in/resatugurulu) |
+[Email](mailto:richard@graphyn.xyz)
 
-**Graphyn** — Desktop app that captures your conversations with Claude Code and Codex, then synthesizes them into specialized agents you own forever.
+## Current Focus
 
-AI tools generate valuable conversations that vanish. You pay monthly, retain nothing. We capture those conversations with ACP protocol, synthesize specialized
-agents through pattern recognition, and they persist on your machine—improving over time.
+- Desktop AI runtime: panes, sessions, permissions, local state, and recovery.
+- Agent memory: durable context, conversation isolation, and reusable knowledge.
+- Skill systems: small `SKILL.md` packages with scripts, references, and assets.
+- Operator workflows: planning, research, review, deployment, docs, and support.
+- Product surfaces that make AI work inspectable instead of disposable.
 
-Built in Rust. macOS Desktop launching Q1 2026.
+## Public Work
+
+| Repo | What it is |
+| --- | --- |
+| [letta-code](https://github.com/resatu/letta-code) | Memory-first coding agent experiments. |
+| [gpui-mono](https://github.com/resatu/gpui-mono) | Graphyn design-system work for GPUI/Rust UI surfaces. |
+| [chunkbench](https://github.com/resatu/chunkbench) | Benchmarks for finding the right chunking strategy for a codebase. |
+| [kv-storage](https://github.com/resatu/kv-storage) | TypeScript LSM-tree key-value store with realtime visualization. |
+| [awesome-cursor-prompts](https://github.com/resatu/awesome-cursor-prompts) | Prompt and workflow collection for AI-assisted development. |
+
+## How I Work
+
+I keep a living `.skills/` library for repeatable agent work. The useful pattern
+is not a giant prompt; it is a small instruction file plus the scripts, examples,
+and references needed to run the workflow again.
+
+The same idea shows up in Graphyn: agents should remember what matters, expose
+what they changed, keep work tied to a thread, and make handoff between humans
+and models less fragile.
 
 ## Stack
 
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer noopener"><img 
-src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/rust.svg" alt="Rust" width="25" height="25" /></a>
-<a href="https://go.dev" target="_blank" rel="noreferrer noopener"><img 
-src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/go.svg" alt="Go" width="25" height="25" /></a>
-<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img 
-src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="TypeScript" width="25" height="25" /></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img 
-src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="Node.js" width="25" height="25" /></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img 
-src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25" /></a>
+`TypeScript` | `Rust` | `Go` | `Swift` | `Node.js` | `PostgreSQL` | `SQLite` |
+`Tauri` | `Cloudflare` | `GitHub Actions`
+
+Based in Istanbul. Building for people who want AI tools that compound instead
+of forgetting everything after the tab closes.
